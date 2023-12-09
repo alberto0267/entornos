@@ -1,0 +1,20 @@
+* {
+  color: burlywood;
+  text-align: center;
+}
+fieldset {
+  background-color: black;
+}
+input,
+select,
+textarea {
+  background-color: white;
+  border: none;
+}
+
+img {
+  width: 5%;
+}
+input[type="submit"] {
+  border: 5px solid rebeccapurple;
+}
