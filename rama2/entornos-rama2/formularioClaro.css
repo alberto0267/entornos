@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+}
+fieldset {
+  background-color: bisque;
+}
+input,
+select,
+textarea {
+  background-color: blanchedalmond;
+  border: none;
+}
+
+img {
+  width: 5%;
+}
+input[type="submit"] {
+  border: 5px solid rebeccapurple;
+}
